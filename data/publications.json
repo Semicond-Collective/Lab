@@ -1,31 +1,551 @@
 {
-  "source": "Initial selection",
-  "profile_url": null,
-  "synced_at": null,
+  "source": "Google Scholar",
+  "profile_url": "https://scholar.google.com/citations?user=2q1-iQUAAAAJ",
+  "synced_at": "2026-11-24T06:01:29+00:00",
   "publications": [
     {
-      "id": "seed-nature-2026",
-      "title": "Delayed electron-hole recombination in a pseudo-direct semiconductor",
-      "authors": "Marcello Righetto and colleagues",
+      "id": "pub-5d0cb15182be3fc6",
+      "title": "Delayed electron–hole recombination in a pseudo-direct semiconductor",
+      "authors": "Righetto, Marcello; Banerjee, Debalina; Jia, Zhenglin; Lilly, Joshua RS; Lim, Vincent J-Y; Lal, Snigdha; Yan, Siyu; Lee, Jae Eun; Patel, Jay B; Johnston, Michael B;",
       "venue": "Nature",
       "year": 2026,
-      "url": "https://www.nature.com/articles/s41586-026-11223-x"
+      "url": "https://scholar.google.com/scholar?q=Delayed+electron%E2%80%93hole+recombination+in+a+pseudo-direct+semiconductor"
     },
     {
-      "id": "seed-jacs-2026",
+      "id": "pub-c749493f5812bc43",
+      "title": "Inter-Layer Excitation Diffusion and Odd–Even Transport Anisotropy in 2D Perovskites Revealed by Photoluminescence Reabsorption",
+      "authors": "Du, Jiaxing; Righetto, Marcello; Herz, Laura;",
+      "venue": "Proceedings of MATSUS Fall 2026 Conference (MATSUSFall26)",
+      "year": 2026,
+      "url": "https://scholar.google.com/scholar?q=Inter-Layer+Excitation+Diffusion+and+Odd%E2%80%93Even+Transport+Anisotropy+in+2D+Perovskites+Revealed+by+Photoluminescence+Reabsorption"
+    },
+    {
+      "id": "pub-46272efb03087e5d",
+      "title": "Introduction to ultrafast meets ultrasmall: exploring the uncharted territory of quantum dynamics",
+      "authors": "Rusimova, Kristina R; Siday, Thomas; Righetto, Marcello;",
+      "venue": "Nanoscale Advances",
+      "year": 2026,
+      "url": "https://scholar.google.com/scholar?q=Introduction+to+ultrafast+meets+ultrasmall%3A+exploring+the+uncharted+territory+of+quantum+dynamics"
+    },
+    {
+      "id": "pub-1de40a5a3f9951db",
+      "title": "Laser‐Ablated Cu2O Inks Enable Stable, Flexible Spray‐Processed Photocathodes",
+      "authors": "Zamboni, Diego; Righetto, Marcello; Reffatto, Catherine; Ostellari, Pietro; Fortunati, Ilaria; Basagni, Andrea; Franco, Lorenzo; Gross, Silvia; Amendola, Vincenzo; Lamberti, Francesco;",
+      "venue": "Small Structures",
+      "year": 2026,
+      "url": "https://scholar.google.com/scholar?q=Laser%E2%80%90Ablated+Cu2O+Inks+Enable+Stable%2C+Flexible+Spray%E2%80%90Processed+Photocathodes"
+    },
+    {
+      "id": "pub-d76ee21bea216840",
+      "title": "Lead-free perovskites and derivatives for photogeneration: a roadmap to sustainable approaches for photovoltaics and photo (electro) catalysis",
+      "authors": "Poli, Isabella; Gatti, Teresa; Li, Yan; Agresti, Antonio; Castriotta, Luigi Angelo; De Rossi, Francesca; Shukla, Sudhanshu; Aernouts, Tom; Eslava, Salvador; Malavasi, Lorenzo;",
+      "venue": "Journal of Physics: Energy",
+      "year": 2026,
+      "url": "https://scholar.google.com/scholar?q=Lead-free+perovskites+and+derivatives+for+photogeneration%3A+a+roadmap+to+sustainable+approaches+for+photovoltaics+and+photo+%28electro%29+catalysis"
+    },
+    {
+      "id": "pub-6888ca443295ea35",
+      "title": "Odd–Even Cation Engineering of the Excitation Transport Anisotropy in Two-Dimensional Perovskite Films",
+      "authors": "Du, Jiaxing; Righetto, Marcello; Choghaei, Maryam; Yan, Siyu; Wallerius, Christopher A; Meerholz, Klaus; Johnston, Michael B; Olthof, Selina; Herz, Laura M;",
+      "venue": "ACS nano",
+      "year": 2026,
+      "url": "https://scholar.google.com/scholar?q=Odd%E2%80%93Even+Cation+Engineering+of+the+Excitation+Transport+Anisotropy+in+Two-Dimensional+Perovskite+Films"
+    },
+    {
+      "id": "pub-4bf8892211c916ba",
       "title": "Overcoming Charge-Carrier Localization in Metal Chalcohalides",
-      "authors": "Bembe C. Mackintosh, Marcello Righetto and colleagues",
+      "authors": "Mackintosh, Bembe C; Righetto, Marcello; Grandhi, G Krishnamurthy; Haward, Thomas B; Viswanath, Noolu Srinivasa Manikanta; Lilly, Joshua RS; Yan, Siyu; Lee, Jae Eun; Lal, Snigdha; Bowman, Alan R;",
       "venue": "Journal of the American Chemical Society",
       "year": 2026,
-      "url": "https://pubs.acs.org/doi/10.1021/jacs.6c05142"
+      "url": "https://scholar.google.com/scholar?q=Overcoming+Charge-Carrier+Localization+in+Metal+Chalcohalides"
     },
     {
-      "id": "seed-cusbs-2025",
-      "title": "Structural and electronic features enabling delocalized charge-carriers in CuSbSe2",
-      "authors": "Marcello Righetto and colleagues",
-      "venue": "University of Padova research record",
+      "id": "pub-5d556bf5ebc62fe2",
+      "title": "Scalable Spray Processing Resolves the Dimensionality–Transport Trade‐off in Lead‐Free Indoor Photovoltaics",
+      "authors": "Lamberti, Francesco; Elrashedy, Remah; Sarkar, Arpita; Righetto, Marcello; Bhatia, Ribhu; Ostellari, Pietro; Dengo, Nicola; Ruggeri, Mariangela; Verduci, Rosaria; Basagni, Andrea;",
+      "venue": "Small Methods",
+      "year": 2026,
+      "url": "https://scholar.google.com/scholar?q=Scalable+Spray+Processing+Resolves+the+Dimensionality%E2%80%93Transport+Trade%E2%80%90off+in+Lead%E2%80%90Free+Indoor+Photovoltaics"
+    },
+    {
+      "id": "pub-fc8acefeffbf20e8",
+      "title": "Silver–bismuth perovskite-inspired materials: chemistry, optoelectronic properties, and emerging applications in photovoltaics and beyond",
+      "authors": "Grandhi, G Krishnamurthy; Manikanta Viswanath, Noolu Srinivasa; Righetto, Marcello; Domenici, Sara; Krishnaiah, Mokurala; Moroni, Marco; Pecoraro, Adriana; Muñoz-García, Ana Belén; Pavone, Michele; Malavasi, Lorenzo;",
+      "venue": "Journal of Materials Chemistry A",
+      "year": 2026,
+      "url": "https://scholar.google.com/scholar?q=Silver%E2%80%93bismuth+perovskite-inspired+materials%3A+chemistry%2C+optoelectronic+properties%2C+and+emerging+applications+in+photovoltaics+and+beyond"
+    },
+    {
+      "id": "pub-039c6352bc5cf02f",
+      "title": "Highly Crystalline and Oriented Thin Films of Fully Conjugated 3D‐Covalent Organic Frameworks",
+      "authors": "Munoz-Alonso, Ignacio; Bessinger, Derya; Reuter, Stephan; Righetto, Marcello; Fuchs, Laura; Döblinger, Markus; Medina, Dana D; Ortmann, Frank; Herz, Laura M; Bein, Thomas;",
+      "venue": "Angewandte Chemie International Edition",
       "year": 2025,
-      "url": "https://unifind.unipd.it/individual?uri=http%3A%2F%2Firises.unipd.it%2Fresource%2Fitem%2F841093"
+      "url": "https://scholar.google.com/scholar?q=Highly+Crystalline+and+Oriented+Thin+Films+of+Fully+Conjugated+3D%E2%80%90Covalent+Organic+Frameworks"
+    },
+    {
+      "id": "pub-5d0b0a8df80d0663",
+      "title": "Impact of Charge Transport Layers on the Structural and Optoelectronic Properties of Coevaporated Cu2AgBiI6",
+      "authors": "Lee, Jae Eun; Righetto, Marcello; Putland, Benjamin WJ; Yan, Siyu; Lilly, Joshua RS; Lal, Snigdha; Jin, Heon; Noel, Nakita K; Johnston, Michael B; Snaith, Henry J;",
+      "venue": "ACS Applied Materials & Interfaces",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=Impact+of+Charge+Transport+Layers+on+the+Structural+and+Optoelectronic+Properties+of+Coevaporated+Cu2AgBiI6"
+    },
+    {
+      "id": "pub-83f01eac064d4f3c",
+      "title": "Inter‐Layer Diffusion of Excitations in 2D Perovskites Revealed by Photoluminescence Reabsorption",
+      "authors": "Du, Jiaxing; Righetto, Marcello; Kober‐Czerny, Manuel; Yan, Siyu; Elmestekawy, Karim A; Snaith, Henry J; Johnston, Michael B; Herz, Laura M;",
+      "venue": "Advanced Functional Materials",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=Inter%E2%80%90Layer+Diffusion+of+Excitations+in+2D+Perovskites+Revealed+by+Photoluminescence+Reabsorption"
+    },
+    {
+      "id": "pub-72c40ba2c2443e63",
+      "title": "Odd-even effects in lead-iodide-based Ruddlesden–Popper 2D perovskites",
+      "authors": "Choghaei, Maryam; Schiffer, Maximilian; Tyagi, Viren; Righetto, Marcello; Du, Jiaxing; Buchmüller, Maximilian; Brinkmann, Kai Oliver; Brocks, Geert; Görrn, Patrick; Herz, Laura M;",
+      "venue": "Journal of Materials Chemistry A",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=Odd-even+effects+in+lead-iodide-based+Ruddlesden%E2%80%93Popper+2D+perovskites"
+    },
+    {
+      "id": "pub-b714656595b284d6",
+      "title": "Optically Determined Hole Effective Mass in Tin-Iodide Perovskite Films",
+      "authors": "Lim, Vincent J-Y; Righetto, Marcello; Farrar, Michael D; Siday, Thomas; Snaith, Henry J; Johnston, Michael B; Herz, Laura M;",
+      "venue": "ACS Energy Letters",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=Optically+Determined+Hole+Effective+Mass+in+Tin-Iodide+Perovskite+Films"
+    },
+    {
+      "id": "pub-d9de1523fd83f03d",
+      "title": "Oriented Naphthalene-O-propylammonium-Based (NOP) 4Au B IIII8 (B= Au, Bi, Sb) Ruddlesden–Popper Two-Dimensional Gold Double Perovskite Thin Films Featuring High Charge-Carrier Mobility",
+      "authors": "Wolf, Florian; Chau, Thanh; Han, Dan; Spooner, Kieran B; Righetto, Marcello; Dörflinger, Patrick; Wang, Shizhe; Guntermann, Roman; Hooijer, Rik; Scanlon, David O;",
+      "venue": "Journal of the American Chemical Society",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=Oriented+Naphthalene-O-propylammonium-Based+%28NOP%29+4Au+B+IIII8+%28B%3D+Au%2C+Bi%2C+Sb%29+Ruddlesden%E2%80%93Popper+Two-Dimensional+Gold+Double+Perovskite+Thin+Films+Featuring+High+Charge-Carrier+Mobility"
+    },
+    {
+      "id": "pub-1e0da84d3062e0ca",
+      "title": "Photoactive Thiophene‐Enriched Tetrathienonaphthalene‐Based Covalent Organic Frameworks",
+      "authors": "Xue, Tianhao; Righetto, Marcello; Guntermann, Roman; Wang, Shizhe; Blätte, Dominic; Xu, Zehua; Weis, Andreas; Munoz‐Alonso, Ignacio; Medina, Dana D; Hartschuh, Achim;",
+      "venue": "Small",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=Photoactive+Thiophene%E2%80%90Enriched+Tetrathienonaphthalene%E2%80%90Based+Covalent+Organic+Frameworks"
+    },
+    {
+      "id": "pub-4ab29ff5367311e1",
+      "title": "Spatiotemporal spectroscopy of fast excited-state diffusion in 2D covalent organic framework thin films",
+      "authors": "Spies, Laura; Biewald, Alexander; Fuchs, Laura; Merkel, Konrad; Righetto, Marcello; Xu, Zehua; Guntermann, Roman; Hooijer, Rik; Herz, Laura M; Ortmann, Frank;",
+      "venue": "Journal of the American Chemical Society",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=Spatiotemporal+spectroscopy+of+fast+excited-state+diffusion+in+2D+covalent+organic+framework+thin+films"
+    },
+    {
+      "id": "pub-3f3cc4ad91c9db35",
+      "title": "Structural and electronic features enabling delocalized charge-carriers in CuSbSe 2",
+      "authors": "Fu, Yuchen; Lohan, Hugh; Righetto, Marcello; Huang, Yi-Teng; Kavanagh, Seán R; Cho, Chang-Woo; Zelewski, Szymon J; Woo, Young Won; Demetriou, Harry; McLachlan, Martyn A;",
+      "venue": "Nature Communications",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=Structural+and+electronic+features+enabling+delocalized+charge-carriers+in+CuSbSe+2"
+    },
+    {
+      "id": "pub-5e6dced6f8cae91d",
+      "title": "The promise of operational stability in pnictogen-based perovskite-inspired solar cells",
+      "authors": "Lamminen, Noora; Karlsson, Joshua; Kumar, Ramesh; Viswanath, Noolu Srinivasa Manikanta; Lal, Snigdha; Fasulo, Francesca; Righetto, Marcello; Krishnaiah, Mokurala; Lahtonen, Kimmo; Tewari, Amit;",
+      "venue": "EES Solar",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=The+promise+of+operational+stability+in+pnictogen-based+perovskite-inspired+solar+cells"
+    },
+    {
+      "id": "pub-0c4e2064f87d6c4c",
+      "title": "Unveiling the Role of Guanidinium for Enhanced Charge Extraction in Inverted Perovskite Solar Cells",
+      "authors": "Xu, Weidong; Min, Ganghong; Utama Kosasih, Felix; Dong, Yueyao; Ge, Ziyuan; Gu, Qichun; Chen, Muzi; Pacalaj, Richard A; Wang, Tong; Webb, Thomas;",
+      "venue": "ACS Energy Letters",
+      "year": 2025,
+      "url": "https://scholar.google.com/scholar?q=Unveiling+the+Role+of+Guanidinium+for+Enhanced+Charge+Extraction+in+Inverted+Perovskite+Solar+Cells"
+    },
+    {
+      "id": "pub-ad960693f938a37b",
+      "title": "Compositional Transformation and Impurity‐Mediated Optical Transitions in Co‐Evaporated Cu2AgBiI6 Thin Films for Photovoltaic Applications",
+      "authors": "Putland, Benjamin WJ; Righetto, Marcello; Jin, Heon; Fischer, Markus; Ramadan, Alexandra J; Zaininger, Karl‐Augustin; Herz, Laura M; Sansom, Harry C; Snaith, Henry J;",
+      "venue": "Advanced Energy Materials",
+      "year": 2024,
+      "url": "https://scholar.google.com/scholar?q=Compositional+Transformation+and+Impurity%E2%80%90Mediated+Optical+Transitions+in+Co%E2%80%90Evaporated+Cu2AgBiI6+Thin+Films+for+Photovoltaic+Applications"
+    },
+    {
+      "id": "pub-3ebcdb83a5ca3847",
+      "title": "Contrasting ultra-low frequency Raman and infrared modes in emerging metal halides for photovoltaics",
+      "authors": "Lim, Vincent J-Y; Righetto, Marcello; Yan, Siyu; Patel, Jay B; Siday, Thomas; Putland, Benjamin; McCall, Kyle M; Sirtl, Maximilian T; Kominko, Yuliia; Peng, Jiali;",
+      "venue": "ACS Energy Letters",
+      "year": 2024,
+      "url": "https://scholar.google.com/scholar?q=Contrasting+ultra-low+frequency+Raman+and+infrared+modes+in+emerging+metal+halides+for+photovoltaics"
+    },
+    {
+      "id": "pub-aef5063425780996",
+      "title": "Overcoming Intrinsic Quantum Confinement and Ultrafast Self-Trapping in Ag–Bi–I-and Cu–Bi–I-Based 2D Double Perovskites through Electroactive Cations",
+      "authors": "Hooijer, Rik; Wang, Shizhe; Biewald, Alexander; Eckel, Christian; Righetto, Marcello; Chen, Meizhu; Xu, Zehua; Blatte, Dominic; Han, Dan; Ebert, Hubert;",
+      "venue": "Journal of the American Chemical Society",
+      "year": 2024,
+      "url": "https://scholar.google.com/scholar?q=Overcoming+Intrinsic+Quantum+Confinement+and+Ultrafast+Self-Trapping+in+Ag%E2%80%93Bi%E2%80%93I-and+Cu%E2%80%93Bi%E2%80%93I-Based+2D+Double+Perovskites+through+Electroactive+Cations"
+    },
+    {
+      "id": "pub-2b34ff6580350951",
+      "title": "The role of chemical composition in determining the charge‐carrier dynamics in (AgI) x (BiI3) y rudorffites",
+      "authors": "Lal, Snigdha; Righetto, Marcello; Putland, Benjamin WJ; Sansom, Harry C; Motti, Silvia G; Jin, Heon; Johnston, Michael B; Snaith, Henry J; Herz, Laura M;",
+      "venue": "Advanced Functional Materials",
+      "year": 2024,
+      "url": "https://scholar.google.com/scholar?q=The+role+of+chemical+composition+in+determining+the+charge%E2%80%90carrier+dynamics+in+%28AgI%29+x+%28BiI3%29+y+rudorffites"
+    },
+    {
+      "id": "pub-d31adfb7569e8c4d",
+      "title": "Alloying effects on charge-carrier transport in silver–bismuth double perovskites",
+      "authors": "Righetto, Marcello; Caicedo-Dávila, Sebastián; Sirtl, Maximilian T; Lim, Vincent J-Y; Patel, Jay B; Egger, David A; Bein, Thomas; Herz, Laura M;",
+      "venue": "The Journal of Physical Chemistry Letters",
+      "year": 2023,
+      "url": "https://scholar.google.com/scholar?q=Alloying+effects+on+charge-carrier+transport+in+silver%E2%80%93bismuth+double+perovskites"
+    },
+    {
+      "id": "pub-a86aaf17dbf9864c",
+      "title": "Bandlike transport and charge-carrier dynamics in BiOI films",
+      "authors": "Lal, Snigdha; Righetto, Marcello; Ulatowski, Aleksander M; Motti, Silvia G; Sun, Zhuotong; MacManus-Driscoll, Judith L; Hoye, Robert LZ; Herz, Laura M;",
+      "venue": "The journal of physical chemistry letters",
+      "year": 2023,
+      "url": "https://scholar.google.com/scholar?q=Bandlike+transport+and+charge-carrier+dynamics+in+BiOI+films"
+    },
+    {
+      "id": "pub-fc270f9b60d0cef7",
+      "title": "Cation‐disorder engineering promotes efficient charge‐carrier transport in AgBiS2 nanocrystal films",
+      "authors": "Righetto, Marcello; Wang, Yongjie; Elmestekawy, Karim A; Xia, Chelsea Q; Johnston, Michael B; Konstantatos, Gerasimos; Herz, Laura M;",
+      "venue": "Advanced Materials",
+      "year": 2023,
+      "url": "https://scholar.google.com/scholar?q=Cation%E2%80%90disorder+engineering+promotes+efficient+charge%E2%80%90carrier+transport+in+AgBiS2+nanocrystal+films"
+    },
+    {
+      "id": "pub-22d6e7b4ef8e4eb5",
+      "title": "Chalcohalide antiperovskite thin films with visible light absorption and high charge-carrier mobility processed by solvent-free and low-temperature methods",
+      "authors": "Sebastia-Luna, Paz; Rodkey, Nathan; Mirza, Adeem Saeed; Mertens, Sigurd; Lal, Snigdha; Gaona Carranza, Axel Melchor; Calbo, Joaquin; Righetto, Marcello; Sessolo, Michele; Herz, Laura M;",
+      "venue": "Chemistry of Materials",
+      "year": 2023,
+      "url": "https://scholar.google.com/scholar?q=Chalcohalide+antiperovskite+thin+films+with+visible+light+absorption+and+high+charge-carrier+mobility+processed+by+solvent-free+and+low-temperature+methods"
+    },
+    {
+      "id": "pub-22d6e7b4ef8e4eb5-2",
+      "title": "Chalcohalide Antiperovskite Thin Films with Visible Light Absorption and High Charge-Carrier Mobility Processed by Solvent-Free and Low-Temperature Methods",
+      "authors": "Bolink, Henk; Sebastiá Luna, Paz; Gaona Carranza, Axel Melchor; Calbo Roig, Joaquín; Sessolo, Michele; Ortí Guillén, Enrique; Palazón Huet, Francisco; Rodkey, Nathan; Morales-Masis, Monica; Vandewal, Koen;",
+      "venue": "",
+      "year": 2023,
+      "url": "https://scholar.google.com/scholar?q=Chalcohalide+Antiperovskite+Thin+Films+with+Visible+Light+Absorption+and+High+Charge-Carrier+Mobility+Processed+by+Solvent-Free+and+Low-Temperature+Methods"
+    },
+    {
+      "id": "pub-0c5d004841f211f5",
+      "title": "Charge-carrier dynamics of solution-processed antimony-and bismuth-based chalcogenide thin films",
+      "authors": "Jia, Zhenglin; Righetto, Marcello; Yang, Yujie; Xia, Chelsea Q; Li, Yanyan; Li, Ruiming; Li, Yuwei; Yu, Bin; Liu, Yong; Huang, Huiming;",
+      "venue": "ACS Energy Letters",
+      "year": 2023,
+      "url": "https://scholar.google.com/scholar?q=Charge-carrier+dynamics+of+solution-processed+antimony-and+bismuth-based+chalcogenide+thin+films"
+    },
+    {
+      "id": "pub-a28c2fe8b60adcfe",
+      "title": "Exciton formation dynamics and band‐like free charge‐carrier transport in 2D metal halide perovskite semiconductors",
+      "authors": "Motti, Silvia G; Kober‐Czerny, Manuel; Righetto, Marcello; Holzhey, Philippe; Smith, Joel; Kraus, Hans; Snaith, Henry J; Johnston, Michael B; Herz, Laura M;",
+      "venue": "Advanced Functional Materials",
+      "year": 2023,
+      "url": "https://scholar.google.com/scholar?q=Exciton+formation+dynamics+and+band%E2%80%90like+free+charge%E2%80%90carrier+transport+in+2D+metal+halide+perovskite+semiconductors"
+    },
+    {
+      "id": "pub-d72368bc37279361",
+      "title": "Bending a photonic wire into a ring",
+      "authors": "Gotfredsen, Henrik; Deng, Jie-Ren; Van Raden, Jeff M; Righetto, Marcello; Hergenhahn, Janko; Clarke, Michael; Bellamy-Carter, Abigail; Hart, Jack; O’Shea, James; Claridge, Timothy DW;",
+      "venue": "Nature Chemistry",
+      "year": 2022,
+      "url": "https://scholar.google.com/scholar?q=Bending+a+photonic+wire+into+a+ring"
+    },
+    {
+      "id": "pub-507965c8a126820f",
+      "title": "Self‐assembly of oriented antibody‐decorated metal–organic framework nanocrystals for active‐targeting applications",
+      "authors": "Alt, Karen; Carraro, Francesco; Jap, Edwina; Linares‐Moreau, Mercedes; Riccò, Raffaele; Righetto, Marcello; Bogar, Marco; Amenitsch, Heinz; Hashad, Rania A; Doonan, Christian;",
+      "venue": "Advanced Materials",
+      "year": 2022,
+      "url": "https://scholar.google.com/scholar?q=Self%E2%80%90assembly+of+oriented+antibody%E2%80%90decorated+metal%E2%80%93organic+framework+nanocrystals+for+active%E2%80%90targeting+applications"
+    },
+    {
+      "id": "pub-2203feb9341a2c4d",
+      "title": "Self‐Assembly of Oriented Antibody‐Decorated Metal–Organic Framework Nanocrystals for Active‐Targeting Applications (Adv. Mater. 21/2022)",
+      "authors": "Alt, Karen; Carraro, Francesco; Jap, Edwina; Linares‐Moreau, Mercedes; Riccò, Raffaele; Righetto, Marcello; Bogar, Marco; Amenitsch, Heinz; Hashad, Rania A; Doonan, Christian;",
+      "venue": "Advanced Materials",
+      "year": 2022,
+      "url": "https://scholar.google.com/scholar?q=Self%E2%80%90Assembly+of+Oriented+Antibody%E2%80%90Decorated+Metal%E2%80%93Organic+Framework+Nanocrystals+for+Active%E2%80%90Targeting+Applications+%28Adv.+Mater.+21%2F2022%29"
+    },
+    {
+      "id": "pub-b83f9df53ee0ee2b",
+      "title": "Silver‐Bismuth Based 2D Double Perovskites (4FPEA) 4AgBiX8 (X= Cl, Br, I): Highly Oriented Thin Films with Large Domain Sizes and Ultrafast Charge‐Carrier Localization",
+      "authors": "Hooijer, Rik; Weis, Andreas; Biewald, Alexander; Sirtl, Maximilian T; Malburg, Julian; Holfeuer, Rico; Thamm, Simon; Amin, Amir Abbas Yousefi; Righetto, Marcello; Hartschuh, Achim;",
+      "venue": "Advanced Optical Materials",
+      "year": 2022,
+      "url": "https://scholar.google.com/scholar?q=Silver%E2%80%90Bismuth+Based+2D+Double+Perovskites+%284FPEA%29+4AgBiX8+%28X%3D+Cl%2C+Br%2C+I%29%3A+Highly+Oriented+Thin+Films+with+Large+Domain+Sizes+and+Ultrafast+Charge%E2%80%90Carrier+Localization"
+    },
+    {
+      "id": "pub-011425a9835f17d5",
+      "title": "Strong absorption and ultrafast localisation in NaBiS2 nanocrystals with slow charge-carrier recombination",
+      "authors": "Huang, Yi-Teng; Kavanagh, Seán R; Righetto, Marcello; Rusu, Marin; Levine, Igal; Unold, Thomas; Zelewski, Szymon J; Sneyd, Alexander J; Zhang, Kaiwen; Dai, Linjie;",
+      "venue": "Nature communications",
+      "year": 2022,
+      "url": "https://scholar.google.com/scholar?q=Strong+absorption+and+ultrafast+localisation+in+NaBiS2+nanocrystals+with+slow+charge-carrier+recombination"
+    },
+    {
+      "id": "pub-f06b2c1a9c491aec",
+      "title": "Tailoring the Energy Manifold of Quasi‐Two‐Dimensional Perovskites for Efficient Carrier Extraction",
+      "authors": "Ramesh, Sankaran; Giovanni, David; Righetto, Marcello; Ye, Senyun; Fresch, Elisa; Wang, Yue; Collini, Elisabetta; Mathews, Nripan; Sum, Tze Chien;",
+      "venue": "Advanced Energy Materials",
+      "year": 2022,
+      "url": "https://scholar.google.com/scholar?q=Tailoring+the+Energy+Manifold+of+Quasi%E2%80%90Two%E2%80%90Dimensional+Perovskites+for+Efficient+Carrier+Extraction"
+    },
+    {
+      "id": "pub-807d3d4dcb5ffb60",
+      "title": "Charge Transport Layers in Halide Perovskite Photonic Devices",
+      "authors": "Righetto, Marcello; Cacialli, Franco;",
+      "venue": "Halide Perovskites for Photonics",
+      "year": 2021,
+      "url": "https://scholar.google.com/scholar?q=Charge+Transport+Layers+in+Halide+Perovskite+Photonic+Devices"
+    },
+    {
+      "id": "pub-1b03e321da5e3c6f",
+      "title": "Large cation engineering in two-dimensional silver–bismuth bromide double perovskites",
+      "authors": "Schmitz, Fabian; Horn, Jonas; Dengo, Nicola; Sedykh, Alexander E; Becker, Jonathan; Maiworm, Elena; Belteky, Peter; Kukovecz, Akos; Gross, Silvia; Lamberti, Francesco;",
+      "venue": "Chemistry of Materials",
+      "year": 2021,
+      "url": "https://scholar.google.com/scholar?q=Large+cation+engineering+in+two-dimensional+silver%E2%80%93bismuth+bromide+double+perovskites"
+    },
+    {
+      "id": "pub-4f0b2a9808bc1948",
+      "title": "Non-toxic near-infrared light-emitting diodes",
+      "authors": "Guo, Kunping; Righetto, Marcello; Minotto, Alessandro; Zampetti, Andrea; Cacialli, Franco;",
+      "venue": "Iscience",
+      "year": 2021,
+      "url": "https://scholar.google.com/scholar?q=Non-toxic+near-infrared+light-emitting+diodes"
+    },
+    {
+      "id": "pub-5730954ab52a3751",
+      "title": "Origins of the long-range exciton diffusion in perovskite nanocrystal films: photon recycling vs exciton hopping",
+      "authors": "Giovanni, David; Righetto, Marcello; Zhang, Qiannan; Lim, Jia Wei Melvin; Ramesh, Sankaran; Sum, Tze Chien;",
+      "venue": "Light: Science & Applications",
+      "year": 2021,
+      "url": "https://scholar.google.com/scholar?q=Origins+of+the+long-range+exciton+diffusion+in+perovskite+nanocrystal+films%3A+photon+recycling+vs+exciton+hopping"
+    },
+    {
+      "id": "pub-ecd5a6fd55007075",
+      "title": "Perspectives of organic and perovskite‐based spintronics",
+      "authors": "Privitera, Alberto; Righetto, Marcello; Cacialli, Franco; Riede, Moritz K;",
+      "venue": "Advanced Optical Materials",
+      "year": 2021,
+      "url": "https://scholar.google.com/scholar?q=Perspectives+of+organic+and+perovskite%E2%80%90based+spintronics"
+    },
+    {
+      "id": "pub-d6ad9131c7f80051",
+      "title": "Perspectives of Organic and Perovskite‐Based Spintronics (Advanced Optical Materials 14/2021)",
+      "authors": "Privitera, Alberto; Righetto, Marcello; Cacialli, Franco; Riede, Moritz K;",
+      "venue": "Advanced Optical Materials",
+      "year": 2021,
+      "url": "https://scholar.google.com/scholar?q=Perspectives+of+Organic+and+Perovskite%E2%80%90Based+Spintronics+%28Advanced+Optical+Materials+14%2F2021%29"
+    },
+    {
+      "id": "pub-1a86ab2489552eca",
+      "title": "The photophysics of Ruddlesden-Popper perovskites: A tale of energy, charges, and spins",
+      "authors": "Righetto, Marcello; Giovanni, David; Lim, Swee Sien; Sum, Tze Chien;",
+      "venue": "Applied Physics Reviews",
+      "year": 2021,
+      "url": "https://scholar.google.com/scholar?q=The+photophysics+of+Ruddlesden-Popper+perovskites%3A+A+tale+of+energy%2C+charges%2C+and+spins"
+    },
+    {
+      "id": "pub-57d7a879e7424d04",
+      "title": "The physics of interlayer exciton delocalization in Ruddlesden–Popper lead halide perovskites",
+      "authors": "Giovanni, David; Ramesh, Sankaran; Righetto, Marcello; Melvin Lim, Jia Wei; Zhang, Qiannan; Wang, Yue; Ye, Senyun; Xu, Qiang; Mathews, Nripan; Sum, Tze Chien;",
+      "venue": "Nano Letters",
+      "year": 2021,
+      "url": "https://scholar.google.com/scholar?q=The+physics+of+interlayer+exciton+delocalization+in+Ruddlesden%E2%80%93Popper+lead+halide+perovskites"
+    },
+    {
+      "id": "pub-5da28dc97feb2554",
+      "title": "Coupling halide perovskites with different materials: From doping to nanocomposites, beyond photovoltaics",
+      "authors": "Righetto, Marcello; Meggiolaro, Daniele; Rizzo, Antonio; Sorrentino, Roberto; He, Zhubing; Meneghesso, Gaudenzio; Sum, Tze Chien; Gatti, Teresa; Lamberti, Francesco;",
+      "venue": "Progress in Materials Science",
+      "year": 2020,
+      "url": "https://scholar.google.com/scholar?q=Coupling+halide+perovskites+with+different+materials%3A+From+doping+to+nanocomposites%2C+beyond+photovoltaics"
+    },
+    {
+      "id": "pub-84cba6ba0cb06c6e",
+      "title": "Hot carriers in halide perovskites: how hot truly?",
+      "authors": "Lim, Jia Wei Melvin; Giovanni, David; Righetto, Marcello; Feng, Minjun; Mhaisalkar, Subodh Gautam; Mathews, Nripan; Sum, Tze Chien;",
+      "venue": "The journal of physical chemistry letters",
+      "year": 2020,
+      "url": "https://scholar.google.com/scholar?q=Hot+carriers+in+halide+perovskites%3A+how+hot+truly%3F"
+    },
+    {
+      "id": "pub-a05beb4d9169d97a",
+      "title": "Hot carriers perspective on the nature of traps in perovskites",
+      "authors": "Righetto, Marcello; Lim, Swee Sien; Giovanni, David; Lim, Jia Wei Melvin; Zhang, Qiannan; Ramesh, Sankaran; Tay, Yong Kang Eugene; Sum, Tze Chien;",
+      "venue": "Nature Communications",
+      "year": 2020,
+      "url": "https://scholar.google.com/scholar?q=Hot+carriers+perspective+on+the+nature+of+traps+in+perovskites"
+    },
+    {
+      "id": "pub-a40dd97357c7fa11",
+      "title": "Quo vadis, perovskite emitters?",
+      "authors": "Sum, Tze Chien; Righetto, Marcello; Lim, Swee Sien;",
+      "venue": "The Journal of Chemical Physics",
+      "year": 2020,
+      "url": "https://scholar.google.com/scholar?q=Quo+vadis%2C+perovskite+emitters%3F"
+    },
+    {
+      "id": "pub-7eb7f81ff06da2ca",
+      "title": "The elusive nature of carbon nanodot fluorescence: An unconventional perspective",
+      "authors": "Righetto, Marcello; Carraro, Francesco; Privitera, Alberto; Marafon, Giulia; Moretto, Alessandro; Ferrante, Camilla;",
+      "venue": "The Journal of Physical Chemistry C",
+      "year": 2020,
+      "url": "https://scholar.google.com/scholar?q=The+elusive+nature+of+carbon+nanodot+fluorescence%3A+An+unconventional+perspective"
+    },
+    {
+      "id": "pub-b7109462016d39fa",
+      "title": "The JPC periodic table",
+      "authors": "Schatz, George C; McCoy, Anne B; Shea, Joan-Emma; Murphy, Catherine J; Scholes, Gregory; Batista, Victor; Bhattacharyya, Kankan; Bisquert, Juan; Crawford, Daniel; Cuk, Tanja;",
+      "venue": "The Journal of Physical Chemistry C",
+      "year": 2019,
+      "url": "https://scholar.google.com/scholar?q=The+JPC+periodic+table"
+    },
+    {
+      "id": "pub-68f55602edb59566",
+      "title": "Ultrafast long-range spin-funneling in solution-processed Ruddlesden–Popper halide perovskites",
+      "authors": "Giovanni, David; Lim, Jia Wei Melvin; Yuan, Zhongcheng; Lim, Swee Sien; Righetto, Marcello; Qing, Jian; Zhang, Qiannan; Dewi, Herlina Arianita; Gao, Feng; Mhaisalkar, Subodh Gautam;",
+      "venue": "Nature Communications",
+      "year": 2019,
+      "url": "https://scholar.google.com/scholar?q=Ultrafast+long-range+spin-funneling+in+solution-processed+Ruddlesden%E2%80%93Popper+halide+perovskites"
+    },
+    {
+      "id": "pub-52e641cb713aafbd",
+      "title": "Deciphering hot-and multi-exciton dynamics in core–shell QDs by 2D electronic spectroscopies",
+      "authors": "Righetto, Marcello; Bolzonello, Luca; Volpato, Andrea; Amoruso, Giordano; Panniello, Annamaria; Fanizza, Elisabetta; Striccoli, Marinella; Collini, Elisabetta;",
+      "venue": "Physical Chemistry Chemical Physics",
+      "year": 2018,
+      "url": "https://scholar.google.com/scholar?q=Deciphering+hot-and+multi-exciton+dynamics+in+core%E2%80%93shell+QDs+by+2D+electronic+spectroscopies"
+    },
+    {
+      "id": "pub-8cd7fd8ee33e8368",
+      "title": "Engineering interactions in QDs–PCBM blends: a surface chemistry approach",
+      "authors": "Righetto, Marcello; Privitera, Alberto; Carraro, Francesco; Bolzonello, Luca; Ferrante, Camilla; Franco, Lorenzo; Bozio, Renato;",
+      "venue": "Nanoscale",
+      "year": 2018,
+      "url": "https://scholar.google.com/scholar?q=Engineering+interactions+in+QDs%E2%80%93PCBM+blends%3A+a+surface+chemistry+approach"
+    },
+    {
+      "id": "pub-fde15b8091d01449",
+      "title": "Hybrid perovskite solar cells redefine photovoltaics Value Chain",
+      "authors": "Anzolin, Guendalina; Righetto, Marcello;",
+      "venue": "",
+      "year": 2018,
+      "url": "https://scholar.google.com/scholar?q=Hybrid+perovskite+solar+cells+redefine+photovoltaics+Value+Chain"
+    },
+    {
+      "id": "pub-3e083c4b7f7b6ca6",
+      "title": "Optical Nanostructures for Excitonic Devices",
+      "authors": "Righetto, Marcello;",
+      "venue": "",
+      "year": 2018,
+      "url": "https://scholar.google.com/scholar?q=Optical+Nanostructures+for+Excitonic+Devices"
+    },
+    {
+      "id": "pub-a6cdd095b6d23851",
+      "title": "Surface engineering of chemically exfoliated MoS2 in a “click”: How to generate versatile multifunctional transition metal dichalcogenides-based platforms",
+      "authors": "Tuci, Giulia; Mosconi, Dario; Rossin, Andrea; Luconi, Lapo; Agnoli, Stefano; Righetto, Marcello; Pham-Huu, Cuong; Ba, Housseinou; Cicchi, Stefano; Granozzi, Gaetano;",
+      "venue": "Chemistry of Materials",
+      "year": 2018,
+      "url": "https://scholar.google.com/scholar?q=Surface+engineering+of+chemically+exfoliated+MoS2+in+a+%E2%80%9Cclick%E2%80%9D%3A+How+to+generate+versatile+multifunctional+transition+metal+dichalcogenides-based+platforms"
+    },
+    {
+      "id": "pub-cc48bde485d300bf",
+      "title": "Bridging energetics and dynamics of exciton trapping in core–shell quantum dots",
+      "authors": "Righetto, Marcello; Minotto, Alessandro; Bozio, Renato;",
+      "venue": "The Journal of Physical Chemistry C",
+      "year": 2017,
+      "url": "https://scholar.google.com/scholar?q=Bridging+energetics+and+dynamics+of+exciton+trapping+in+core%E2%80%93shell+quantum+dots"
+    },
+    {
+      "id": "pub-397078350460cc59",
+      "title": "Effects of surface and interface traps on exciton and multi-exciton dynamics in core/shell quantum dots",
+      "authors": "Bozio, Renato; Righetto, Marcello; Minotto, Alessandro;",
+      "venue": "Physical Chemistry of Semiconductor Materials and Interfaces XVI",
+      "year": 2017,
+      "url": "https://scholar.google.com/scholar?q=Effects+of+surface+and+interface+traps+on+exciton+and+multi-exciton+dynamics+in+core%2Fshell+quantum+dots"
+    },
+    {
+      "id": "pub-155c4e105d75b8eb",
+      "title": "Hybrid organic/inorganic perovskite–polymer nanocomposites: toward the enhancement of structural and electrical properties",
+      "authors": "Privitera, Alberto; Righetto, Marcello; De Bastiani, Michele; Carraro, Francesco; Rancan, Marzio; Armelao, Lidia; Granozzi, Gaetano; Bozio, Renato; Franco, Lorenzo;",
+      "venue": "The journal of physical chemistry letters",
+      "year": 2017,
+      "url": "https://scholar.google.com/scholar?q=Hybrid+organic%2Finorganic+perovskite%E2%80%93polymer+nanocomposites%3A+toward+the+enhancement+of+structural+and+electrical+properties"
+    },
+    {
+      "id": "pub-751020c70edeca09",
+      "title": "Optical excitations dynamics at hetero-interfaces fullerene/quantum dots",
+      "authors": "Righetto, Marcello; Privitera, Alberto; Franco, Lorenzo; Bozio, Renato;",
+      "venue": "Organic, Hybrid, and Perovskite Photovoltaics XVIII",
+      "year": 2017,
+      "url": "https://scholar.google.com/scholar?q=Optical+excitations+dynamics+at+hetero-interfaces+fullerene%2Fquantum+dots"
+    },
+    {
+      "id": "pub-a1a39dd4d3cb4ee1",
+      "title": "Spectroscopic insights into carbon dot systems",
+      "authors": "Righetto, Marcello; Privitera, Alberto; Fortunati, Ilaria; Mosconi, Dario; Zerbetto, Mirco; Curri, M Lucia; Corricelli, Michela; Moretto, Alessandro; Agnoli, Stefano; Franco, Lorenzo;",
+      "venue": "The journal of physical chemistry letters",
+      "year": 2017,
+      "url": "https://scholar.google.com/scholar?q=Spectroscopic+insights+into+carbon+dot+systems"
+    },
+    {
+      "id": "pub-7f46868aa00581fe",
+      "title": "The central role of ligands in electron transfer from perovskite nanocrystals",
+      "authors": "Privitera, Alberto; Righetto, Marcello; Bozio, Renato; Franco, Lorenzo;",
+      "venue": "MRS Advances",
+      "year": 2017,
+      "url": "https://scholar.google.com/scholar?q=The+central+role+of+ligands+in+electron+transfer+from+perovskite+nanocrystals"
+    },
+    {
+      "id": "pub-cdd3ccfb17f778de",
+      "title": "Boosting carbon quantum dots/fullerene electron transfer via surface group engineering",
+      "authors": "Privitera, Alberto; Righetto, Marcello; Mosconi, Dario; Lorandi, Francesca; Isse, Abdirisak A; Moretto, Alessandro; Bozio, Renato; Ferrante, Camilla; Franco, Lorenzo;",
+      "venue": "Physical Chemistry Chemical Physics",
+      "year": 2016,
+      "url": "https://scholar.google.com/scholar?q=Boosting+carbon+quantum+dots%2Ffullerene+electron+transfer+via+surface+group+engineering"
+    },
+    {
+      "id": "pub-f4ce8fc52c1bc3a8",
+      "title": "Exciton and multi-exciton dynamics in CdSe/Cd1-xZnxS quantum dots",
+      "authors": "Righetto, Marcello; Minotto, Alessandro; Bozio, Renato;",
+      "venue": "Nanophotonics VI",
+      "year": 2016,
+      "url": "https://scholar.google.com/scholar?q=Exciton+and+multi-exciton+dynamics+in+CdSe%2FCd1-xZnxS+quantum+dots"
+    },
+    {
+      "id": "pub-e3302e06c31c8448",
+      "title": "Fast one-pot synthesis of MoS2/crumpled graphene p–n nanonjunctions for enhanced photoelectrochemical hydrogen production",
+      "authors": "Carraro, Francesco; Calvillo, Laura; Cattelan, Mattia; Favaro, Marco; Righetto, Marcello; Nappini, Silvia; Pis, Igor; Celorrio, Verónica; Fermín, David J; Martucci, Alessandro;",
+      "venue": "ACS applied materials & interfaces",
+      "year": 2015,
+      "url": "https://scholar.google.com/scholar?q=Fast+one-pot+synthesis+of+MoS2%2Fcrumpled+graphene+p%E2%80%93n+nanonjunctions+for+enhanced+photoelectrochemical+hydrogen+production"
+    },
+    {
+      "id": "pub-e3302e06c31c8448-2",
+      "title": "Fast One-Pot Synthesis of MoS2/Crumpled Graphene p–n Nanonjunctions for Enhanced Photoelectrochemical Hydrogen Production",
+      "authors": "Francesco, Carraro; Laura, Calvillo; Mattia, Cattelan; Marco, Favaro; Marcello, Righetto; Silvia, Nappini; Igor, Píš; Verónica, Celorrio; Alessandro, Martucci; Stefano, Agnoli;",
+      "venue": "",
+      "year": 2015,
+      "url": "https://scholar.google.com/scholar?q=Fast+One-Pot+Synthesis+of+MoS2%2FCrumpled+Graphene+p%E2%80%93n+Nanonjunctions+for+Enhanced+Photoelectrochemical+Hydrogen+Production"
+    },
+    {
+      "id": "pub-0085a6de97dc80a6",
+      "title": "Supporting Information for: Hot Carriers in Halide Perovskites: How Hot Truly?",
+      "authors": "Lim, Jia Wei Melvin; Giovanni, David; Righetto, Marcello; Feng, Minjun; Mhaisalkar, Subodh Gautam; Mathews, Nripan; Sum, Tze Chien;",
+      "venue": "",
+      "year": null,
+      "url": "https://scholar.google.com/scholar?q=Supporting+Information+for%3A+Hot+Carriers+in+Halide+Perovskites%3A+How+Hot+Truly%3F"
     }
   ]
 }
