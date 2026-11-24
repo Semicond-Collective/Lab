@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#101e23">
+    <meta name="description" content="News and photos from the Righetto Lab at the University of Padova.">
+    <title>News and gallery | Righetto Lab</title>
+    <link rel="icon" type="image/svg+xml" href="assets/mark.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+    <script src="news.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header inner-header" id="site-header">
+      <a class="brand" href="index.html" aria-label="Righetto Lab, home"><img src="assets/mark.svg" alt="" width="42" height="42"><span class="brand-name">RIGHETTO <span>LAB</span></span></a>
+      <nav class="desktop-nav" aria-label="Main navigation"><a href="index.html#research">Research</a><a href="index.html#approach">Methods</a><a href="index.html#facilities">Facilities</a><a href="news.html" aria-current="page">News</a><a href="publications.html">Publications</a><a href="index.html#people">People</a><a class="nav-contact" href="index.html#contact">Get in touch <span aria-hidden="true">&#8599;</span></a></nav>
+      <button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="mobile-nav"><span></span><span></span></button>
+    </header>
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation" hidden><a href="index.html#research">Research</a><a href="index.html#approach">Methods</a><a href="index.html#facilities">Facilities</a><a href="news.html">News</a><a href="publications.html">Publications</a><a href="index.html#people">People</a><a href="index.html#contact">Get in touch</a></nav>
+    <main id="main">
+      <section class="archive-intro">
+        <div class="page-wrap archive-intro-inner">
+          <div class="section-label section-label-light"><span>05</span> / NEWS</div>
+          <div class="heading-block"><h1 class="display-heading">News and gallery</h1><p class="section-tagline section-tagline-light">What is happening <em>in the lab.</em></p></div>
+          <p>Talks, visits, new members and other events from the lab, with photos where we have them.</p>
+          <a class="archive-source" href="index.html#news">Back to the home page <span aria-hidden="true">&#8599;</span></a>
+        </div>
+      </section>
+      <section class="archive-section section-pad" aria-labelledby="gallery-title">
+        <div class="page-wrap">
+          <div class="archive-head"><div><div class="section-label"><span>PHOTOS</span> / GALLERY</div><h2 id="gallery-title">Gallery</h2><p class="archive-status">Each photo links to the news item it belongs to.</p></div></div>
+          <div class="gallery-grid" id="news-gallery" aria-live="polite"><p class="publication-message">Loading photos...</p></div>
+        </div>
+      </section>
+      <section class="archive-section news-archive section-pad" aria-labelledby="all-news-title">
+        <div class="page-wrap">
+          <div class="archive-head"><div><div class="section-label"><span>INDEX</span> / NEWS</div><h2 id="all-news-title">All news</h2></div></div>
+          <div class="news-archive-list" id="all-news" aria-live="polite"><p class="publication-message">Loading news...</p></div>
+        </div>
+      </section>
+    </main>
+    <footer class="site-footer"><div class="page-wrap footer-layout"><a class="footer-brand" href="index.html"><img src="assets/mark.svg" alt="" width="28" height="28"> RIGHETTO LAB</a><span>University of Padova &middot; Supported by the MUR FIS3 Starting Grant TRAILS</span><span>&copy; <span id="year">2026</span> Righetto Lab</span></div></footer>
+  </body>
+</html>

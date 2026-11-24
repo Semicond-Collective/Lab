@@ -1,0 +1,53 @@
+{
+  "_how_to_edit": "Add a new entry at the top of 'items'. 'date' is YYYY-MM. 'text' and 'link' are optional. To add photos, upload them to assets/news/ and list them in 'images' as {\"file\": \"name.jpg\", \"caption\": \"...\"}. See README.md.",
+  "items": [
+    {
+      "id": "2026-11-iit-kharagpur",
+      "date": "2026-11",
+      "title": "Marcello visits IIT Kharagpur",
+      "images": []
+    },
+    {
+      "id": "2026-11-daniel-joins",
+      "date": "2026-11",
+      "title": "Daniel Zabotto joins the lab as a PhD student",
+      "images": []
+    },
+    {
+      "id": "2026-10-kcl-visit",
+      "date": "2026-10",
+      "title": "Research visit at King's College London",
+      "images": []
+    },
+    {
+      "id": "2026-07-nanoseries",
+      "date": "2026-07",
+      "title": "Marcello gives an invited talk at Nanoseries, Turin",
+      "images": []
+    },
+    {
+      "id": "2026-07-nipho",
+      "date": "2026-07",
+      "title": "Marcello gives an invited presentation at nanoGe NIPHO",
+      "images": []
+    },
+    {
+      "id": "2026-03-matsus",
+      "date": "2026-03",
+      "title": "Symposium organised at nanoGe MATSUS26",
+      "images": []
+    },
+    {
+      "id": "2026-01-oxford-visit",
+      "date": "2026-01",
+      "title": "Research visit at the University of Oxford",
+      "images": []
+    },
+    {
+      "id": "2025-07-china",
+      "date": "2025-07",
+      "title": "Invited presentations at Peking University and the China Nano Symposium",
+      "images": []
+    }
+  ]
+}

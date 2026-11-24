@@ -15,6 +15,39 @@ A static, responsive website for the Righetto Lab. It is designed to publish dir
 - Replace `assets/optical-table.webp` and `assets/semiconductor-films.webp` with your own images, keeping the same filenames or updating their references in `index.html` and `styles.css`.
 - The `assets/mark.svg` logo combines a crystal lattice with a terahertz waveform. It deliberately does not depict a silicon chip.
 
+## News and photo gallery
+
+News items live in `data/news.json`. The home page shows the six most recent; `news.html` shows all of them plus a photo gallery in which every photo links back to its news item.
+
+**Add a news item:** open `data/news.json` on GitHub, click the pencil icon, and add a new entry to `items` (order does not matter; items are sorted by date):
+
+```json
+{
+  "id": "2026-12-example",
+  "date": "2026-12",
+  "title": "Short headline",
+  "text": "Optional one or two sentences.",
+  "link": "https://optional-link.example",
+  "images": []
+}
+```
+
+`id` must be unique, lowercase and without spaces; `date` is `YYYY-MM`. `text`, `link` and `images` are optional. Commit, and the site updates after GitHub Pages redeploys (about a minute).
+
+**Add photos:**
+
+1. Resize each photo to about 1600 px on the long side (JPG or WebP, ideally under 500 KB). Use lowercase file names without spaces, e.g. `2026-11-iit-kharagpur-1.jpg`.
+2. On GitHub, open the `assets/news` folder, click **Add file > Upload files**, drag the photos in, and commit.
+3. Edit `data/news.json` and list the photos under the right item:
+
+```json
+"images": [
+  { "file": "2026-11-iit-kharagpur-1.jpg", "caption": "Seminar at IIT Kharagpur" }
+]
+```
+
+A **Photos (n)** link then appears next to that item on the home page, and the photos appear in the gallery and under the item on `news.html`.
+
 ## Google Scholar publications
 
 For the most reliable sync, set `profile_url` in `scholar-profile.json` to Marcello Righetto's **public** Google Scholar profile URL, for example `https://scholar.google.com/citations?user=YOUR_ID`. Do not substitute a name-search URL: the `user` ID selects the exact profile. If the field is empty, the first sync tries a strict name-and-affiliation lookup and pins the discovered ID only when it finds exactly one match. Google Scholar profiles must be public for visitors and the sync job to see them.
