@@ -330,7 +330,8 @@ a.news-title:hover { color: #288b7d; }
   .menu-toggle[aria-expanded="true"] span:last-child { transform: translateY(-3.5px) rotate(-45deg); }
   .mobile-nav:not([hidden]) { position: fixed; z-index: 49; inset: 70px 0 0; display: flex; flex-direction: column; padding: 30px 22px; background: #101e23; color: white; }
   .mobile-nav a { padding: 18px 1px; border-bottom: 1px solid rgba(255,255,255,.18); font: 500 28px var(--font-display); }
-  .hero { min-height: 640px; height: 91svh; }
+  .hero { min-height: max(640px, 91svh); height: auto; }
+  .hero-content { padding-bottom: 72px; }
   .hero-image { background-position: 59% center; }
   .hero-shade { background: linear-gradient(90deg, rgba(7,17,21,.91), rgba(7,17,21,.65) 60%, rgba(7,17,21,.3)), linear-gradient(0deg, rgba(7,17,21,.45), transparent 40%); }
   .hero-content { padding-top: clamp(175px, 24svh, 245px); }
@@ -359,8 +360,8 @@ a.news-title:hover { color: #288b7d; }
 
 @media (max-width: 600px) {
   :root { --wrap: min(100% - 40px, 1380px); }
-  .hero { min-height: 520px; height: 88svh; }
-  .hero-content { padding-top: clamp(160px, 23svh, 212px); }
+  .hero { min-height: max(520px, 88svh); height: auto; }
+  .hero-content { padding-top: clamp(132px, 20svh, 200px); padding-bottom: 56px; }
   .hero-kicker { flex-wrap: wrap; max-width: 310px; gap: 8px; margin-bottom: 27px; font-size: 9px; line-height: 1.5; }
   .hero h1 { font-size: clamp(68px, 15.5vw, 91px); }
   .hero-statement { margin-top: 29px; font-size: 26px; }
