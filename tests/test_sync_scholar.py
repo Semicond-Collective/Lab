@@ -19,6 +19,10 @@ class ScholarSyncTests(unittest.TestCase):
             scholar_id_from_url("https://scholar.google.com/citations?user=Smr99uEAAAAJ&hl=en"),
             "Smr99uEAAAAJ",
         )
+        self.assertEqual(
+            scholar_id_from_url("https://scholar.google.it/citations?user=2q1-iQUAAAAJ&hl=it"),
+            "2q1-iQUAAAAJ",
+        )
 
     def test_publication_is_normalized(self):
         item = publication_from_scholarly(
