@@ -51,6 +51,7 @@ class ScholarSyncTests(unittest.TestCase):
             items = publications_from_csv(path, "Smr99uEAAAAJ")
             self.assertEqual(len(items), 1)
             self.assertEqual(items[0]["venue"], "Nature")
+            self.assertEqual(items[0]["url"], "https://scholar.google.com/scholar?q=A+paper")
             with self.assertRaisesRegex(ValueError, "shorter list"):
                 prepare_snapshot(items, "https://scholar.google.com/citations?user=Smr99uEAAAAJ", previous_count=20)
 
