@@ -11,7 +11,7 @@ import unicodedata
 from datetime import datetime, timezone
 from itertools import islice
 from pathlib import Path
-from urllib.parse import parse_qs, quote, urlparse
+from urllib.parse import parse_qs, quote, urlencode, urlparse
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -122,7 +122,7 @@ def publications_from_csv(csv_path, scholar_id):
                 "venue": (fields.get("publication") or fields.get("journal") or fields.get("venue") or "").strip(),
                 "year": year,
                 "url": safe_https(fields.get("url") or fields.get("link"))
-                or f"https://scholar.google.com/citations?user={quote(scholar_id)}",
+                or f"https://scholar.google.com/scholar?{urlencode({'q': title})}",
             })
     return rows
 
