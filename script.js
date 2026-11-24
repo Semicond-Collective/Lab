@@ -38,7 +38,7 @@ document.querySelectorAll('.reveal').forEach((element) => observer.observe(eleme
 let ticking = false;
 function updateOnScroll() {
   header.classList.toggle('scrolled', window.scrollY > 24);
-  if (!reducedMotion.matches && window.innerWidth > 800 && window.scrollY < window.innerHeight) {
+  if (heroImage && !reducedMotion.matches && window.innerWidth > 800 && window.scrollY < window.innerHeight) {
     heroImage.style.transform = `translateY(${Math.round(window.scrollY * 0.16)}px) scale(1.04)`;
   }
   ticking = false;

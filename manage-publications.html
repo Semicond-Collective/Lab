@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#101e23">
+    <meta name="robots" content="noindex">
+    <title>Publication Visibility | Righetto Lab</title>
+    <link rel="icon" type="image/svg+xml" href="assets/mark.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+    <script src="publications.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header inner-header" id="site-header"><a class="brand" href="index.html" aria-label="Righetto Lab, home"><img src="assets/mark.svg" alt="" width="42" height="42"><span class="brand-name">RIGHETTO <span>LAB</span></span></a><nav class="desktop-nav" aria-label="Main navigation"><a href="index.html">Home</a><a href="publications.html">Publications</a><a class="nav-contact" href="index.html#contact">Get in touch <span aria-hidden="true">&#8599;</span></a></nav><button class="menu-toggle" type="button" aria-label="Open navigation" aria-expanded="false" aria-controls="mobile-nav"><span></span><span></span></button></header>
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation" hidden><a href="index.html">Home</a><a href="publications.html">Publications</a><a href="index.html#contact">Get in touch</a></nav>
+    <main id="main">
+      <section class="manager-intro"><div class="page-wrap"><div class="section-label section-label-light"><span>EDITOR</span> / PUBLICATIONS</div><h1 class="display-heading">Choose what<br><em>appears.</em></h1><p>This page prepares visibility settings. To make changes live, commit the generated JSON to the repository.</p></div></section>
+      <section class="manager-section section-pad"><div class="page-wrap">
+        <div class="manager-heading"><h2>Publication visibility</h2><p id="manager-status" aria-live="polite">Loading publication records...</p></div>
+        <label class="automatic-featured"><input type="checkbox" id="automatic-featured"> Feature the three newest public publications automatically</label>
+        <div class="manager-table-wrap"><table class="manager-table"><thead><tr><th scope="col">Year</th><th scope="col">Publication</th><th scope="col">Public</th><th scope="col">Home</th></tr></thead><tbody id="manager-publications"></tbody></table></div>
+        <div class="manager-actions"><button class="action-button" type="button" id="prepare-settings">Prepare settings</button><button class="secondary-button" type="button" id="copy-settings" disabled>Copy JSON</button><button class="secondary-button" type="button" id="download-settings" disabled>Download JSON</button></div>
+        <textarea id="settings-output" class="settings-output" aria-label="Generated publication settings JSON" readonly hidden></textarea>
+        <p class="manager-instruction">Replace <code>publication-settings.json</code> with this content and commit the change. <a href="https://github.com/Semicond-Collective/Lab/edit/main/publication-settings.json" target="_blank" rel="noopener noreferrer">Open settings on GitHub &#8599;</a></p>
+      </div></section>
+    </main>
+    <footer class="site-footer"><div class="page-wrap footer-layout"><a class="footer-brand" href="index.html"><img src="assets/mark.svg" alt="" width="28" height="28"> RIGHETTO LAB</a><span>University of Padova</span><span>&copy; <span id="year">2026</span> Righetto Lab</span></div></footer>
+  </body>
+</html>

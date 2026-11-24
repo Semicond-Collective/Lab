@@ -1,0 +1,31 @@
+{
+  "source": "Initial selection",
+  "profile_url": null,
+  "synced_at": null,
+  "publications": [
+    {
+      "id": "seed-nature-2026",
+      "title": "Delayed electron-hole recombination in a pseudo-direct semiconductor",
+      "authors": "Marcello Righetto and colleagues",
+      "venue": "Nature",
+      "year": 2026,
+      "url": "https://www.nature.com/articles/s41586-026-11223-x"
+    },
+    {
+      "id": "seed-jacs-2026",
+      "title": "Overcoming Charge-Carrier Localization in Metal Chalcohalides",
+      "authors": "Bembe C. Mackintosh, Marcello Righetto and colleagues",
+      "venue": "Journal of the American Chemical Society",
+      "year": 2026,
+      "url": "https://pubs.acs.org/doi/10.1021/jacs.6c05142"
+    },
+    {
+      "id": "seed-cusbs-2025",
+      "title": "Structural and electronic features enabling delocalized charge-carriers in CuSbSe2",
+      "authors": "Marcello Righetto and colleagues",
+      "venue": "University of Padova research record",
+      "year": 2025,
+      "url": "https://unifind.unipd.it/individual?uri=http%3A%2F%2Firises.unipd.it%2Fresource%2Fitem%2F841093"
+    }
+  ]
+}
