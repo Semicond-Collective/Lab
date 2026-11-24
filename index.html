@@ -111,28 +111,22 @@
         <div class="page-wrap approach-layout">
           <div class="approach-copy">
             <div class="section-label reveal"><span>02</span> / APPROACH</div>
-            <h2 class="display-heading reveal" id="approach-title">A picture measured<br><em>in trillionths of a second.</em></h2>
-            <p class="reveal">By combining time-resolved optical measurements with terahertz probes, we connect the first steps of photoexcitation to the transport properties that ultimately matter in devices.</p>
+            <h2 class="display-heading reveal" id="approach-title">Following charge<br><em>in real time.</em></h2>
+            <p class="reveal">Optical pump-terahertz probe (OPTP) spectroscopy follows charge transport after a semiconductor absorbs light, without adding electrical contacts.</p>
+            <ol class="approach-steps reveal">
+              <li><span>01</span><p><strong>Optical pump.</strong> A femtosecond light pulse creates electrons and holes in the thin film.</p></li>
+              <li><span>02</span><p><strong>THz probe.</strong> A broadband terahertz pulse crosses the same spot after a controlled delay. Mobile charges change its transmitted electric field.</p></li>
+              <li><span>03</span><p><strong>Readout.</strong> Comparing pumped and unpumped THz waveforms reveals transient photoconductivity. How it varies with delay and frequency helps distinguish transport, localisation and recombination.</p></li>
+            </ol>
             <a class="text-link reveal" href="https://research.unipd.it/cris/rp/rp10786?type=all" target="_blank" rel="noopener noreferrer">Explore the research record <span aria-hidden="true">&#8599;</span></a>
           </div>
-          <div class="wave-panel reveal" aria-label="Illustration of a terahertz pulse moving across a crystal lattice">
-            <svg class="wave-illustration" viewBox="0 0 600 480" role="img" aria-labelledby="wave-title">
-              <title id="wave-title">A wave pulse crosses a crystal lattice</title>
-              <defs>
-                <pattern id="lattice" width="62" height="54" patternUnits="userSpaceOnUse" patternTransform="skewY(-8)">
-                  <path d="M0 0H62M0 0V54" fill="none" stroke="#71949a" stroke-opacity=".27" stroke-width="1"/>
-                  <circle cx="0" cy="0" r="3.6" fill="#7bcac6" fill-opacity=".6"/>
-                </pattern>
-                <linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#40d6c2" stop-opacity="0"/><stop offset=".4" stop-color="#40d6c2"/><stop offset=".75" stop-color="#eab66f"/><stop offset="1" stop-color="#eab66f" stop-opacity="0"/></linearGradient>
-              </defs>
-              <rect x="80" y="72" width="440" height="324" fill="url(#lattice)"/>
-              <path class="wave-path" d="M-10 238 C65 238 70 238 91 238 C116 238 119 154 145 154 C170 154 169 321 198 321 C227 321 231 115 260 115 C289 115 290 351 319 351 C348 351 348 175 377 175 C405 175 406 279 436 279 C463 279 464 220 490 220 C512 220 512 238 610 238" fill="none" stroke="url(#pulse)" stroke-width="3"/>
-              <circle cx="300" cy="238" r="7" fill="#eab66f"/>
-              <circle cx="300" cy="238" r="23" fill="none" stroke="#eab66f" stroke-opacity=".35"/>
-              <text x="81" y="427" fill="#8ca6aa" font-size="11" font-family="monospace" letter-spacing="2">OPTICAL EXCITATION</text>
-              <text x="420" y="427" fill="#8ca6aa" font-size="11" font-family="monospace" letter-spacing="2">THz RESPONSE</text>
-            </svg>
-          </div>
+          <figure class="optp-figure reveal">
+            <picture>
+              <source media="(max-width: 600px)" srcset="assets/optp-schematic-mobile.svg" width="360" height="430">
+              <img src="assets/optp-schematic.svg" alt="Optical pump light excites a semiconductor thin film. A delayed terahertz probe crosses the film, and the transmitted field is detected." width="640" height="430" loading="lazy">
+            </picture>
+            <figcaption>The pump-probe delay is varied to follow the material's photoinduced conductivity over time.</figcaption>
+          </figure>
         </div>
       </section>
 
@@ -158,7 +152,21 @@
               </tbody>
             </table>
           </div>
-          <h3 class="alumni-heading reveal">Alumni</h3>
+          <h3 class="people-subheading reveal">Collaborators</h3>
+          <div class="people-table-wrap reveal">
+            <table class="people-table collaborator-table">
+              <thead><tr><th scope="col">Name</th><th scope="col">Institution</th><th scope="col">Website</th></tr></thead>
+              <tbody>
+                <tr><th scope="row">Dr Jay B. Patel</th><td>King's College London</td><td><a href="https://patel.sites.er.kcl.ac.uk/" target="_blank" rel="noopener noreferrer" aria-label="Jay Patel's group website">Group site <span aria-hidden="true">&#8599;</span></a></td></tr>
+                <tr><th scope="row">Dr Tom Siday</th><td>University of Birmingham</td><td><a href="https://lightwave-collective.uk/" target="_blank" rel="noopener noreferrer" aria-label="Tom Siday's group website">Group site <span aria-hidden="true">&#8599;</span></a></td></tr>
+                <tr><th scope="row">Dr Sankaran Ramesh</th><td>IIT Kharagpur</td><td><a href="https://srlab-web.github.io/" target="_blank" rel="noopener noreferrer" aria-label="Sankaran Ramesh's lab website">Lab site <span aria-hidden="true">&#8599;</span></a></td></tr>
+                <tr><th scope="row">Prof. Nakita K. Noel</th><td>University of Oxford</td><td><a href="https://www.physics.ox.ac.uk/our-people/noel" target="_blank" rel="noopener noreferrer" aria-label="Nakita Noel's Oxford profile">Profile <span aria-hidden="true">&#8599;</span></a></td></tr>
+                <tr><th scope="row">Prof. Alberto Privitera</th><td>University of Florence</td><td><a href="https://www.priviteragroup.com/" target="_blank" rel="noopener noreferrer" aria-label="Alberto Privitera's group website">Group site <span aria-hidden="true">&#8599;</span></a></td></tr>
+                <tr><th scope="row">Dr Francesco Carraro</th><td>TU Graz</td><td><a href="https://www.tugraz.at/institute/ptc/research/the-carraro-group" target="_blank" rel="noopener noreferrer" aria-label="Francesco Carraro's group website">Group site <span aria-hidden="true">&#8599;</span></a></td></tr>
+              </tbody>
+            </table>
+          </div>
+          <h3 class="people-subheading reveal">Alumni</h3>
           <div class="people-table-wrap reveal">
             <table class="people-table alumni-table">
               <thead><tr><th scope="col">Role</th><th scope="col">Name</th><th scope="col">Details</th><th scope="col">Contact</th></tr></thead>

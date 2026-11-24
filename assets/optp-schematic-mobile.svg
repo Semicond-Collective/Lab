@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="430" viewBox="0 0 360 430" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Optical pump-terahertz probe measurement</title>
+  <desc id="description">An optical pulse and a delayed terahertz pulse meet at a semiconductor thin film. The transmitted terahertz field is detected while the delay is scanned.</desc>
+  <defs>
+    <marker id="pump-arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M1 1L7 4L1 7" stroke="#F0BD78" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="probe-arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M1 1L7 4L1 7" stroke="#54C9B8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <path d="M20 32H340M20 338H340" stroke="#78999A" stroke-opacity=".32"/>
+  <text x="22" y="62" fill="#F0BD78" font-family="Trebuchet MS, sans-serif" font-size="18" font-weight="700">OPTICAL PUMP</text>
+  <text x="124" y="172" fill="#DCE9E7" font-family="Trebuchet MS, sans-serif" font-size="17" font-weight="700">THIN FILM</text>
+  <text x="20" y="315" fill="#7DDED1" font-family="Trebuchet MS, sans-serif" font-size="18" font-weight="700">THz PROBE</text>
+  <text x="268" y="315" fill="#DCE9E7" font-family="Trebuchet MS, sans-serif" font-size="17" font-weight="700">DETECT</text>
+
+  <circle cx="57" cy="105" r="18" stroke="#F0BD78" stroke-opacity=".65" stroke-width="1.5"/>
+  <circle cx="57" cy="105" r="8" fill="#F0BD78"/>
+  <path d="M72 118L164 230" stroke="#F0BD78" stroke-opacity=".13" stroke-width="16" stroke-linecap="round"/>
+  <path d="M72 118L164 230" stroke="#F0BD78" stroke-width="3.5" stroke-linecap="round" marker-end="url(#pump-arrow)"/>
+
+  <path d="M22 240H158M200 240H295" stroke="#54C9B8" stroke-opacity=".15" stroke-width="17" stroke-linecap="round"/>
+  <path d="M22 240H158M200 240H295" stroke="#54C9B8" stroke-width="3.5" stroke-linecap="round" marker-end="url(#probe-arrow)"/>
+  <path d="M29 240C37 225 45 225 53 240S69 255 77 240S93 225 101 240S117 255 125 240S141 225 149 240" stroke="#7DDED1" stroke-width="1.8"/>
+  <path d="M207 240C215 225 223 225 231 240S247 255 255 240S271 225 279 240" stroke="#7DDED1" stroke-width="1.8"/>
+
+  <path d="M165 184L190 175V284L165 293V184Z" fill="#C5E3E0" fill-opacity=".17" stroke="#A5D5D0" stroke-width="1.5"/>
+  <path d="M165 184L171 182V291L165 293V184Z" fill="#F0BD78" fill-opacity=".82"/>
+  <path d="M171 182L190 175M171 291L190 284" stroke="#DCE9E7" stroke-width="1.4"/>
+
+  <circle cx="317" cy="240" r="21" stroke="#7DDED1" stroke-width="1.7"/>
+  <circle cx="317" cy="240" r="14" stroke="#7DDED1" stroke-opacity=".42"/>
+  <path d="M305 240H310L314 233L319 247L323 237L326 240H330" stroke="#F0BD78" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="72" cy="365" r="5" fill="#F0BD78"/>
+  <circle cx="288" cy="365" r="5" fill="#54C9B8"/>
+  <path d="M82 365H278" stroke="#A7C3C0" stroke-width="1.5" stroke-dasharray="5 6"/>
+  <text x="84" y="405" fill="#B8D0CD" font-family="Trebuchet MS, sans-serif" font-size="18" font-weight="600">VARIABLE DELAY &#964;</text>
+</svg>
